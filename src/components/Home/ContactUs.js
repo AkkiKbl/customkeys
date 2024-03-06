@@ -20,7 +20,7 @@ export default function ContactUs() {
         <div style={{ width: 300, height: 1, backgroundColor: "white" }} />
         <p className="text-white mt-4">Connect with CustomKeys!</p>
         <div className="d-flex w-50 justify-content-center">
-          <p className="text-white">
+          <p className="text-white text-center ">
             We&apos;re here to help you craft your dream keyboard. Have a
             conversation with us through WhatsApp for queries and orders.
           </p>

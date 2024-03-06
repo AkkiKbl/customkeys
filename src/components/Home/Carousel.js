@@ -72,7 +72,10 @@ export default function Carousel() {
         </button>
       </div> */}
       <div>
-        <h1 className="text-white fw-bold " style={{ fontSize: 80 }}>
+        <h1
+          className="text-white fw-bold text-center  "
+          style={{ fontSize: 80 }}
+        >
           Keyboard Made Just For You
         </h1>
         {/* Sound of precision */}
