@@ -13,7 +13,7 @@ export default function Products() {
       <div className="container mb-5">
         <div className="row g-3">
           {products.map((value) => (
-            <div className="col-12 col-md-6 col-lg-4">
+            <div key={value.key} className="col-12 col-md-6 col-lg-4">
               <div className="card">
                 <img
                   src={value.link}

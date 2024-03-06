@@ -21,7 +21,7 @@ export default function ContactUs() {
         <p className="text-white mt-4">Connect with CustomKeys!</p>
         <div className="d-flex w-50 justify-content-center">
           <p className="text-white">
-            We're here to help you craft your dream keyboard. Have a
+            We&apos;re here to help you craft your dream keyboard. Have a
             conversation with us through WhatsApp for queries and orders.
           </p>
         </div>

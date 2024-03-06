@@ -29,9 +29,9 @@ export default function Aboutus() {
           your keyboard is an extension of your creativity and productivity, and
           it should reflect your unique style and needs. We offer a wide range
           of customization options, from keycaps and switches to layouts and
-          engravings. Whether you're a seasoned gamer, a creative professional,
-          or simply someone who appreciates a beautiful and functional keyboard,
-          we can help you create the perfect tool for you.
+          engravings. Whether you&apos;re a seasoned gamer, a creative
+          professional, or simply someone who appreciates a beautiful and
+          functional keyboard, we can help you create the perfect tool for you.
         </p>
       </div>
     </div>
