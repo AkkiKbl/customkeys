@@ -26,7 +26,7 @@ export default function ContactUs() {
           </p>
         </div>
         <a
-          class="btn btn-primary"
+          class="btn btn-success "
           href="https://api.whatsapp.com/send/?phone=8668967947"
         >
           Chat With Us
